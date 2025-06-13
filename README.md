@@ -1,4 +1,5 @@
-## Hi there 👋
+![Stats](https://github-readme-stats.vercel.app/api?username=raspberrykitty1&show_icons=true&theme=synthwave&count_private=true) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raspberrykitty1&layout=compact&theme=synthwave)
 
 <!--
 **RaspberryKitty1/raspberrykitty1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
