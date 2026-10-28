@@ -1,17 +1,25 @@
-![Stats](https://github-readme-stats.vercel.app/api?username=raspberrykitty1&show_icons=true&theme=synthwave&count_private=true) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raspberrykitty1&layout=compact&theme=synthwave)
+<div align="center">
 
-<!--
-**RaspberryKitty1/raspberrykitty1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there! 👋 I'm RaspberryKitty1
 
-Here are some ideas to get you started:
+<img src="https://github-readme-stats.vercel.app/api?username=raspberrykitty1&show_icons=true&theme=synthwave&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raspberrykitty1&layout=compact&theme=synthwave" alt="Top Langs" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+### 💻 About Me
+* 🔭 **Pronouns:** He/Him
+* 🐍 **Main Language:** Python
+* 🐾 **Fun Fact:** I'm a furry and spend a lot of my free time hanging out in VR!
+* 🤖 **AI Collaboration:** I use tools like Google Gemini and ChatGPT to assist with coding, but **all code is human-reviewed** before it gets uploaded.
+
+### 🛠️ What I Do
+* I like coding random things in my free time, exploring new ideas, and tinkering with Python scripts.
+
+---
+
+<div align="center">
+  <sub>✨ Crafted with code, late nights, and VR headsets ✨</sub>
+</div>
